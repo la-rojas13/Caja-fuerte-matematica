@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>La Caja Fuerte Matemática</name>
-    <description>Lógica de negocio del juego La Caja Fuerte Matemática</description>
+    <description>Juego educativo de matematicas La Caja Fuerte Matemática</description>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
