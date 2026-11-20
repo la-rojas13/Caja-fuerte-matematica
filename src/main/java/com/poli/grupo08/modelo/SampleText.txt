@@ -1,2 +1,0 @@
-En esta carpeta van las clases que representan los objetos del negocio.
-
